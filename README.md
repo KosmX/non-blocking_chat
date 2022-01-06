@@ -1,4 +1,11 @@
-# Fabric Example Mod
+# Non-blocking chat lookup
+
+On a chat message, the client will check if that player is blocked or not.  
+This is an API lookup. But **this does not happen on a thread**.  
+
+This will cause a lag on every (or some) chat message.  
+
+This mod aims to fix that, by doing the chat message handling on other threads.
 
 ## Setup
 
