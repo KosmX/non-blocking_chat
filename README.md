@@ -12,6 +12,8 @@ This mod aims to fix that, by doing the chat message handling on other threads.
 mod doing that by @adryd325  
 [adryd325/chat-lag-fix/](https://github.com/adryd325/chat-lag-fix/)  
 
+And the proper caching of the list is here:  
+[fxmorin/carpet-fixes](https://github.com/fxmorin/carpet-fixes)
 
 ## Setup
 
