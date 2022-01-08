@@ -13,7 +13,7 @@ mod doing that by @adryd325
 [adryd325/chat-lag-fix/](https://github.com/adryd325/chat-lag-fix/)  
 
 And the proper caching of the list is here:  
-[fxmorin/carpet-fixes](https://github.com/fxmorin/carpet-fixes)
+~~[fxmorin/carpet-fixes](https://github.com/fxmorin/carpet-fixes)~~ not ideal, client fixes soon :D
 
 ## Setup
 
