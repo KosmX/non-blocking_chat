@@ -12,8 +12,8 @@ This mod aims to fix that, by doing the chat message handling on other threads.
 mod doing that by @adryd325  
 [adryd325/chat-lag-fix/](https://github.com/adryd325/chat-lag-fix/)  
 
-And the proper caching of the list is here:  
-[Blanket](https://github.com/BlanketMC/blanket-client-tweaks)  
+And the proper caching of the blocked user list is part of Blanket!:  
+[Blanket/.../YggdrasilUserApiService_syncBlockListMixin.java](https://github.com/BlanketMC/blanket-client-tweaks/blob/1.18/src/main/java/io/github/blanketmc/blanket/mixin/fixes/YggdrasilUserApiService_syncBlockListMixin.java)  
 [CurseForge/Blanket](https://www.curseforge.com/minecraft/mc-mods/blanket)
 
 ## Setup
